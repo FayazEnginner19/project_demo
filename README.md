@@ -1,3 +1,3 @@
 # project_demo
-fayaz arafata
+ arafata fayaz
 soratoor
