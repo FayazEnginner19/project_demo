@@ -1,3 +1,5 @@
 p{
     color: brown    ;
+    text-align: justify;
+    text-rendering: optimizeSpeed;
 }
